@@ -10,7 +10,7 @@
 
 * [ ] **Заполните анкету**
 
-  [Перейти к анкете →](https://forms.yandex.ru/u/6a9085f15056904bcbe4b322)
+  <a href="https://forms.yandex.ru/u/6a9085f15056904bcbe4b322" target="_blank" rel="noopener noreferrer">Перейти к анкете →</a>
 
   Анкета поможет нам лучше представить начальный уровень группы и учитывать его при проведении курса.
 
@@ -24,8 +24,8 @@
 
 * [ ] **Пройдите пробный контест**
 
-  [Перейти к контесту →](https://new.contest.yandex.ru/contests/98628/start)
-
+  <a href="https://new.contest.yandex.ru/contests/98628/start" target="_blank" rel="noopener noreferrer">Перейти к анкете →</a>
+  
   В пробном контесте (почти) не нужно программировать. Его цель — познакомиться с интерфейсом системы и отправкой решений.
 
 
