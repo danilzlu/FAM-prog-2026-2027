@@ -37,6 +37,24 @@
 
 [Перейти к литературе →](literature.md)
 
+
+## Преподаватель и контакты
+
+**Данила Шубин**
+
+📧 **Почта:** [dshubin@hse.ru](mailto:dshubin@hse.ru)
+
+✈️ **Telegram:** [@danilaschubin](https://t.me/danilaschubin)
+
+💙 **ВКонтакте:** [vk.ru/danilaschubin](https://vk.ru/danilaschubin)
+
+💬 **WeChat:** `wxid_8crw6cmyx7ft12`
+
+🌐 **Страница НИУ ВШЭ:** [www.hse.ru/org/persons/225595100](https://www.hse.ru/org/persons/225595100)
+
+> По вопросам курса можно писать в любой удобный мессенджер.
+
+
 ---
 
 ## Последние обновления
