@@ -21,3 +21,5 @@
   <a href="https://new.contest.yandex.ru/contests/98628/start" target="_blank" rel="noopener noreferrer">Перейти к контесту →</a>
   
   В пробном контесте (почти) не нужно программировать. Его цель — познакомиться с интерфейсом системы и отправкой решений.
+
+[← На главную](index.md)
