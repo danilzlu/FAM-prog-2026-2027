@@ -18,13 +18,15 @@
 
 [Презентация (PDF)](files/lectures/lec-03.pdf)
 
----
-
-# Лекция 3 (TBR Sept, 9)
+# Лекция 3 (Sept, 9)
 
 ## Поток управления
 
 [Презентация (PDF)](files/lectures/lec-04.pdf)
+
+---
+
+# Лекция 4 (TBR Sept, 16)
 
 ## Массивы
 
