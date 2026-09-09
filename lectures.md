@@ -24,13 +24,13 @@
 
 [Презентация (PDF)](files/lectures/lec-04.pdf)
 
----
-
-# Лекция 4 (TBR Sept, 16)
-
 ## Массивы
 
 [Презентация (PDF)](files/lectures/lec-05.pdf)
+
+---
+
+# Лекция 4 (TBR Sept, 16)
 
 ## Функции
 
