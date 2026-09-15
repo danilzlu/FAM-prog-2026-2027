@@ -36,6 +36,10 @@
 
 [Презентация (PDF)](files/lectures/lec-06.pdf)
 
+## Про ошибки
+
+[Презентация (PDF)](files/lectures/errors-01.pdf)
+
 ---
 
 [← На главную](index.md)
