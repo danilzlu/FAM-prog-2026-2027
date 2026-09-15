@@ -4,6 +4,8 @@
 
 ---
 
+## Практика 3
+
 **[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-03)**
 
 **[Открыть контест →](https://new.contest.yandex.ru/contests/99202/start)**
