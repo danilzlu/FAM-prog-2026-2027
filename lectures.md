@@ -44,7 +44,7 @@
 
 ## Абстракции (атомы -> компьютер)
 
-[Презентация (PDF)](files/lectures/lec-07.html)
+[Презентация (HTML)](files/lectures/class-07/lec-07.html)
 
 ---
 
