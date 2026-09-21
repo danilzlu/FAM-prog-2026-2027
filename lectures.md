@@ -46,6 +46,10 @@
 
 [Презентация (HTML)](files/lectures/class-07/lec-07.html)
 
+## GENESIS
+
+[Презентация (PDF)](files/lectures/lec-07.2.pdf)
+
 ---
 
 [← На главную](index.md)
