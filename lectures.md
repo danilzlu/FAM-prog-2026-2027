@@ -52,5 +52,21 @@
 
 ---
 
+# Лекция 6 (TBR Sept, 30)
+
+## Типы данных
+
+[Презентация (HTML)](files/lectures/lec-08.html)
+
+## Указатели и массивы
+
+[Презентация (HTML)](files/lectures/lec-09.html)
+
+## Виды памяти
+
+[Презентация (HTML)](files/lectures/lec-10.html)
+
+---
+
 [← На главную](index.md)
 
