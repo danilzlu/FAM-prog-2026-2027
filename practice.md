@@ -4,6 +4,16 @@
 
 ---
 
+## Практика 4
+
+**[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-04)**
+
+**[Открыть контест →](https://new.contest.yandex.ru/contests/99952/start)**
+
+> **Важно.** Решения необходимо отправлять только из аккаунта, зарегистрированного с использованием почты в домене `@edu.hse.ru`.
+
+---
+
 ## Практика 3
 
 **[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-03)**
