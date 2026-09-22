@@ -1,0 +1,263 @@
+/* @theme course */
+
+@import "default";
+
+.definition {
+  color: #2563EB;
+  font-weight: 700;
+}
+
+.advice {
+  color: #16A34A;
+  font-weight: 700;
+}
+
+.important {
+  color: #EA580C;
+  font-weight: 700;
+}
+
+.error {
+  color: #DC2626;
+  font-weight: 700;
+}
+
+code.lang {
+    color: #2563EB;
+    font-weight: bold;
+    background: #eef5ff;
+}
+
+a {
+    color: #0EA5E9;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #0284C7;
+    text-decoration: underline;
+}
+
+advice {
+    display: block;
+
+    margin: 1em 0;
+    padding: 0.7em 1em;
+
+    border-left: 6px solid #16A34A;
+    background: #F0FDF4;
+
+    color: #166534;
+    border-radius: 6px;
+}
+
+important {
+    display: block;
+
+    margin: 1em 0;
+    padding: 0.7em 1em;
+
+    border-left: 6px solid #EA580C;
+    background: #FFF7ED;
+
+    color: #9A3412;
+    border-radius: 6px;
+}
+
+definition {
+    display: block;
+
+    margin: 1em 0;
+    padding: 0.7em 1em;
+
+    border-left: 6px solid #2563EB;
+    background: #EFF6FF;
+
+    color: #1E3A8A;
+    border-radius: 6px;
+}
+
+section.definition {
+    border-top: 12px solid #2563EB;
+}
+
+
+
+
+
+lang {
+    display: inline-block;
+
+    padding: 0.05em 0.35em;
+    color: #2563EB;
+    font-weight: bold;
+
+    font-family: var(--code-font);
+    font-size: 0.9em;
+
+    background: #eef5ff;
+    border-radius: 4px;
+}
+
+
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+}
+
+.columns-60-40 {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 60px;
+    align-items: center;
+}
+
+    
+question {
+    display: block;
+    margin: 1em 0;
+    padding: 0.7em 1em;
+
+    border-left: 6px solid #2563EB;
+    border-radius: 6px;
+
+    background: #EFF6FF;
+    color: #1E3A8A;
+}
+
+section.video {
+  padding: 0;
+}
+
+section.video video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #ffffff;
+}
+
+/* =========================
+   Code blocks
+   ========================= */
+
+:root {
+    --code-font: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+pre {
+    margin: 1em 0;
+    padding: 0.8em 1em;
+
+    overflow-x: auto;
+
+    background: #F8FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 6px;
+
+    font-family: var(--code-font);
+    font-size: 0.88em;
+    line-height: 1.45;
+}
+
+pre code {
+    padding: 0;
+    background: transparent;
+
+    color: #1E293B;
+    font-family: var(--code-font);
+    font-weight: normal;
+}
+
+
+/* =========================
+   Pandoc syntax highlighting
+   ========================= */
+
+/* Keywords:
+   if, else, for, while, return, ...
+*/
+code span.kw {
+    color: #2563EB;
+    font-weight: 600;
+}
+
+/* Data types:
+   int, char, void, ...
+*/
+code span.dt {
+    color: #7C3AED;
+    font-weight: 600;
+}
+
+/* Control flow */
+code span.cf {
+    color: #2563EB;
+    font-weight: 600;
+}
+
+/* Functions */
+code span.fu {
+    color: #0369A1;
+}
+
+/* Numbers */
+code span.dv,
+code span.fl,
+code span.bn {
+    color: #C2410C;
+}
+
+/* Strings and characters */
+code span.st,
+code span.ch {
+    color: #15803D;
+}
+
+/* Comments */
+code span.co {
+    color: #64748B;
+    font-style: italic;
+}
+
+/* Operators */
+code span.op {
+    color: #475569;
+}
+
+/* Preprocessor */
+code span.pp {
+    color: #9333EA;
+}
+
+/* Constants / special values */
+code span.cn,
+code span.sc {
+    color: #C2410C;
+}
+
+/* Errors reported by the highlighter */
+code span.er {
+    color: #DC2626;
+    text-decoration: underline;
+}
+
+
+/* =========================
+   Inline code
+   ========================= */
+
+:not(pre) > code {
+    padding: 0.08em 0.3em;
+
+    color: #1E3A8A;
+    background: #EFF6FF;
+    border-radius: 4px;
+
+    font-family: var(--code-font);
+    font-size: 0.9em;
+}
