@@ -42,6 +42,10 @@
 
 # Лекция 5 (TBR Sept, 23)
 
+## Ошибки
+
+[Страница HTML](files/lectures/errors-02.html)
+
 ## Абстракции (атомы -> компьютер)
 
 [Презентация (HTML)](files/lectures/class-07/lec-07.html)
