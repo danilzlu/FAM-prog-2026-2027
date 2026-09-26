@@ -52,7 +52,7 @@
 
 ## GENESIS
 
-[Презентация (PDF)](files/lectures/lec-07.2.pdf)
+[Презентация (PDF)](files/lectures/class-07/lec-07.2.pdf)
 
 ---
 
@@ -60,15 +60,15 @@
 
 ## Типы данных
 
-[Презентация (HTML)](files/lectures/lec-08.html)
+[Презентация (HTML)](files/lectures/lec-08.pdf)
 
 ## Указатели и массивы
 
-[Презентация (HTML)](files/lectures/lec-09.html)
+[Презентация (HTML)](files/lectures/lec-09.pdf)
 
 ## Виды памяти
 
-[Презентация (HTML)](files/lectures/lec-10.html)
+[Презентация (HTML)](files/lectures/lec-10.pdf)
 
 ---
 
