@@ -38,8 +38,6 @@
 
 [Презентация (PDF)](files/lectures/errors-01.pdf)
 
----
-
 # Лекция 5 (Sept, 23)
 
 ## Ошибки
