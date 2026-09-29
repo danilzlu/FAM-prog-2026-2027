@@ -40,7 +40,7 @@
 
 ---
 
-# Лекция 5 (TBR Sept, 23)
+# Лекция 5 (Sept, 23)
 
 ## Ошибки
 
@@ -60,15 +60,31 @@
 
 ## Типы данных
 
-[Презентация (HTML)](files/lectures/lec-08.pdf)
+[Презентация (PDF)](files/lectures/lec-08.pdf)
 
 ## Указатели и массивы
 
-[Презентация (HTML)](files/lectures/lec-09.pdf)
+[Презентация (PDF)](files/lectures/lec-09.pdf)
 
 ## Виды памяти
 
-[Презентация (HTML)](files/lectures/lec-10.pdf)
+[Презентация (PDF)](files/lectures/lec-10.pdf)
+
+---
+
+# Лекция 7 (TBR Oct, 7)
+
+## Указатели и функции
+
+[Презентация (PDF)](files/lectures/lec-11.pdf)
+
+## Строки и файлы
+
+[Презентация (PDF)](files/lectures/lec-12.pdf)
+
+## Пользовательские типы
+
+[Презентация (PDF)](files/lectures/lec-13.pdf)
 
 ---
 
