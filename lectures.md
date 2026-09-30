@@ -64,17 +64,19 @@
 
 [Презентация (PDF)](files/lectures/lec-09.pdf)
 
-## Виды памяти
-
-[Презентация (PDF)](files/lectures/lec-10.pdf)
-
 ---
 
 # Лекция 7 (TBR Oct, 7)
 
+## Виды памяти
+
+[Презентация (PDF)](files/lectures/lec-10.pdf)
+
 ## Указатели и функции
 
 [Презентация (PDF)](files/lectures/lec-11.pdf)
+
+# Лекция 8 (TBR Oct, 14)
 
 ## Строки и файлы
 
@@ -83,6 +85,17 @@
 ## Пользовательские типы
 
 [Презентация (PDF)](files/lectures/lec-13.pdf)
+
+# Лекция 9 (TBR Oct, 21)
+
+## Многофайловые программы и препроцессор
+
+[Презентация (PDF)](files/lectures/lec-14.pdf)
+
+## Стандартная библиотека
+
+[Презентация (PDF)](files/lectures/lec-15.pdf)
+
 
 ---
 
