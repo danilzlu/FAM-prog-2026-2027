@@ -74,11 +74,11 @@
 
 [Презентация (PDF)](files/lectures/lec-11.pdf)
 
-# Лекция 8 (TBR Oct, 14)
-
 ## Строки и файлы
 
 [Презентация (PDF)](files/lectures/lec-12.pdf)
+
+# Лекция 8 (TBR Oct, 14)
 
 ## Пользовательские типы
 
