@@ -2,6 +2,9 @@
 
 **[Условие лабораторной работы →](files/labs/csvstat_lab_students.pdf)**
 
+**[Репо с тестами и другими материалами →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/lab-01)**
+
+
 Пароль для открытия условия — десятичная запись числа `0xDEADBEEF`.
 
 ## Сдача
