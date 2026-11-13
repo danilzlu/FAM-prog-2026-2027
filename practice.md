@@ -3,19 +3,18 @@
 Все примеры кода находятся в **[этом репозитории →](https://github.com/danilzlu/FAM-prog-code-2026-2027.git)**
 
 
-## Тренировочный контест
+## Практика 8
 
-<!---**[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-07)**--->
+**[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-08)**
 
-**[Открыть контест →](https://new.contest.yandex.ru/contests/101534/start)**
+**[Открыть контест →](https://new.contest.yandex.ru/contests/103536/start)**
+
 
 ## Практика 7
 
 **[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-07)**
 
 **[Открыть контест →](https://new.contest.yandex.ru/contests/101369/start)**
-
-> **Важно.** Решения необходимо отправлять только из аккаунта, зарегистрированного с использованием почты в домене `@edu.hse.ru`.
 
 ## Практика 6
 
