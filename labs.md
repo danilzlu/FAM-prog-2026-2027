@@ -87,7 +87,7 @@ python3 tools/check.py /путь/к/kvstore --levels 4 6
 
 # Лабораторная работа 2
 
-**[Условие лабораторной работы →](files/labs/avlset_lab02_assignment.pdf)**
+**[Условие лабораторной работы →](files/labs/avlset_lab_students.pdf)**
 
 **[Репо с шаблоном, тестами и другими материалами →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/lab-02)**
 
@@ -164,7 +164,7 @@ python3 run_tests.py --level 10 --sanitize --stress
 
 ## Сдача
 
-**Дедлайн: [дата и время].**
+**Дедлайн: 9 декабря 9:00.**
 
 Для сдачи лабораторной работы:
 
