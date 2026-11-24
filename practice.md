@@ -2,6 +2,13 @@
 
 Все примеры кода находятся в **[этом репозитории →](https://github.com/danilzlu/FAM-prog-code-2026-2027.git)**
 
+## Практика 10
+
+**[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-10)**
+
+**[Открыть контест →](https://new.contest.yandex.ru/contests/104433/start)**
+
+
 ## Практика 9
 
 **[Примеры кода →](https://github.com/danilzlu/FAM-prog-code-2026-2027/tree/main/class-09)**
